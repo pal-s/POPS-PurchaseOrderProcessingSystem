@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFPOPS", "WCFPOPS\WCFPOPS.csproj", "{BA265790-A47D-4630-838E-C49026704FD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POPSHost", "..\POPSHost\POPSHost.csproj", "{2906F1F3-7C30-44E9-9DB0-293F20B5E033}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA265790-A47D-4630-838E-C49026704FD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA265790-A47D-4630-838E-C49026704FD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA265790-A47D-4630-838E-C49026704FD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA265790-A47D-4630-838E-C49026704FD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2906F1F3-7C30-44E9-9DB0-293F20B5E033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2906F1F3-7C30-44E9-9DB0-293F20B5E033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2906F1F3-7C30-44E9-9DB0-293F20B5E033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2906F1F3-7C30-44E9-9DB0-293F20B5E033}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB037179-FB0E-4905-BF75-9FE303A0DCC1}
+	EndGlobalSection
+EndGlobal
